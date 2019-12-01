@@ -1,0 +1,31 @@
+{
+  "name": "tropicali",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hihuydo/tropicali.git"
+  },
+  "author": "Huy Do",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hihuydo/tropicali/issues"
+  },
+  "homepage": "https://github.com/hihuydo/tropicali#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "node-sass": "^4.13.0"
+  },
+  "dependencies": {
+    "gulp-clean": "^0.4.0",
+    "pump": "^3.0.0"
+  }
+}
